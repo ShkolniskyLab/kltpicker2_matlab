@@ -25,6 +25,7 @@ KLTpicker_start
 Revision History:
 -----------------
 2.0     Adding contamination detection.
+
 1.11	Fix bug in loading box files into RELION.
 
  1.1	Add support for rectangular micrographs.

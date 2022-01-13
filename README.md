@@ -6,7 +6,7 @@ Date: 01/2022
 This is the MATLAB version containing the complete source code of the KLT picker.  
 A Python version is available at https://github.com/ShkolniskyLab/kltpicker2.
 Subscribe to 
-    https://github.com/ShkolniskyLab/kltpicker2_matlab/edit/master/README.md 
+    https://github.com/ShkolniskyLab/kltpicker2_matlab 
 for updates about the KLTpicker.
 
 Please cite the following paper when using this package:
